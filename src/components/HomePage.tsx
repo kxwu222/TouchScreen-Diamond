@@ -92,7 +92,7 @@ const HomePage = () => {
             <div className="w-full max-w-3xl bg-gradient-to-br from-black/20 to-black/20 backdrop-blur-lg border-2 border-white/20 rounded-3xl py-16 px-12 shadow-2xl hover:from-gray-800/40 hover:to-gray-700/40 hover:border-gray-500/50 transition-all duration-300 cursor-pointer group" onClick={() => window.location.href = 'https://sheffield.ac.uk/undergraduate/visit/your-open-day-guide'}>
               <div className="flex items-center justify-center space-x-4">
                 <h2 className="text-white text-4xl font-bold font-source-serif-pro drop-shadow-lg group-hover:text-white/90 transition-colors duration-300">
-                  Your Open Day Guide
+                  Your open day guide
                 </h2>
               </div>
             </div>
