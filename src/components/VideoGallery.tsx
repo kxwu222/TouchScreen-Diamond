@@ -264,7 +264,7 @@ const VideoGallery = () => {
           {/* Header - aligned with content container */}
           <div className="w-full max-w-6xl mx-auto">
             <div className="flex-shrink-0 mt-[72px] mb-8">
-              <h1 className="text-white text-5xl font-source-serif-pro font-bold">Student Experience videos</h1>
+              <h1 className="text-white text-5xl font-source-serif-pro font-bold">Student experience videos</h1>
             </div>
             <div className="flex-shrink-0 mt-0 mb-8">
               <div className="w-full h-[3px] bg-white/80"></div>
