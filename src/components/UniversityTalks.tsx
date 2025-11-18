@@ -217,7 +217,7 @@ const UniversityTalks: React.FC = () => {
         <video autoPlay={true} muted loop playsInline className="w-full h-full object-cover" style={{ width: '100%', height: '100%' }}>
           <source src="/background-video.mp4" type="video/mp4" />
         </video>
-        <div className="absolute inset-0 bg-gradient-to-br from-black/70 via-black/50 to-black/70" />
+        <div className="absolute inset-0 bg-gradient-to-br from-black/80 via-black/70 to-black/80" />
       </div>
 
       <div className="relative z-10 w-full h-full flex flex-col px-12 py-24">
